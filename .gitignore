@@ -1,0 +1,5 @@
+*.suo
+*.sln
+
+FeedThing/bin/
+FeedThing/obj/
